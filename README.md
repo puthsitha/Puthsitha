@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="download.gif" alt="Pink glittery and 'jittery' text that can only be described as 'overly cute'. The text reads 'Welcome to my profile!'">
+</p>
 
 <!--
 **Puthsihta/Puthsihta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
