@@ -6,7 +6,7 @@
 
 Skills: REACT Native /Flutter /Typescript /OOP /React JS
 
-- 🔭 I’m currently working as React Native Developer at PhnomPenh.
+- 🔭 I’m currently working as a Mobile Developer in PhnomPenh.
 - 👧 I have a girl friend already.
 - 🫁 I'm still breathing on earth.
 
