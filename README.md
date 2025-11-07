@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="./me.gif" alt="I am Mobile Developer" height="200" />
 </div>
 
 ###
@@ -14,37 +14,28 @@
 
 ###
 
-<p align="left">👨‍💻 I'm a very simple person 🧍.<br><br>I code at day 🌞, and learn at night 🌃.<br><br>My favorite Lange is Typescript ⛤. I still breathing on earth 🌍.<br><br>🔭 I’m currently working as a Mobile Developer in PhnomPenh.<br>👧 I have a girl friend already.<br>🫁 I'm still breathing on earth.</p>
+<p align="left">👨‍💻 I'm a very <s>simple person</s> 🧍. I code at day 🌞, and learn at night 🌃. My favorite Lange is <b>Typescript</b> ⛤. I still breathing on earth 🌍.<br><br>
+
+- 🔭 I’m currently working as a Mobile Developer in PhnomPenh.
+- 👧 I have a girl friend already.
+- 🫁 I'm still breathing on earth.</p>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="60" alt="xcode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
 </div>
 
@@ -86,14 +77,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puthsitha/puthsitha/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/puthsitha/puthsitha/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/cas8qgiaatwnwixinftnkbe16">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cas8qgiaatwnwixinftnkbe16&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
